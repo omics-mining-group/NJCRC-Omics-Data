@@ -2,6 +2,8 @@
 
 ### This is an integrative omics datasets across genome, epigenome, transcriptome, and proteome from 79 patients recruited from Nanjing ColoRectal Cancer cohort (NJCRC), which included 30 early-onset colorectal cancer (EOCRC) and 49 late-onset colorectal cancer (LOCRC) cases. 
 
+![image](https://github.com/omics-mining-group/NJCRC-Omics-Data/tree/main/image/omics.png)
+
 ## Genomic data
 
 We carried out both WGS and WES paired-end sequencing reactions for 27 and 52 pairs of tumors and NATs, respectively, under collaborations with Novogene Co., Ltd (Beijing, China). Briefly, DNA was extracted from fresh frozen tissue blocks using QIAGEN QIAamp DNA Mini Kit. For WGS, library preparation was performed using at least of 0.8 g genomic DNA per sample with high molecular weight (> 20 kb single band) via TruSeq Nano DNA HT Library Prep Kit. Pooled DNA libraries were sequenced on Illumina HiSeq X Ten platform with 150-bp paired-end sequencing. For WES, library construction and whole-exome capture of genomic DNA were performed using the SureSelectXT Reagent Kit (Agilent) and SureSelectXT Human All Exon V6 Kit (Agilent). The captured DNA was then sequenced on an Illumina HiSeq 2500 sequencing platform, with 150-bp paired-end sequencing.
