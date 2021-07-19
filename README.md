@@ -2,7 +2,7 @@
 
 ### This is an integrative omics datasets across genome, epigenome, transcriptome, and proteome from 79 patients recruited from Nanjing ColoRectal Cancer cohort (NJCRC), which included 30 early-onset colorectal cancer (EOCRC) and 49 late-onset colorectal cancer (LOCRC) cases. 
 
-![image](https://github.com/omics-mining-group/NJCRC-Omics-Data/blob/master/image/omics.png)
+![image](https://github.com/omics-mining-group/NJCRC-Omics-Data/blob/main/image/omics.png)
 
 
 ## Genomic data
